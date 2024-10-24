@@ -1,2 +1,1 @@
-Este es un archivo de practica para aprender GitHub
-Me equivoque no puse el mensaje en el paso 3, adjunto una nueva linea de texto :D
+Ahora si agrego una linea de texto mediante el comando echo aqui en el git bash haha.
